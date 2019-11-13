@@ -1,6 +1,6 @@
 # Convert PDF 1.5 to PDF 1.7 Specification and Save the Output to Stream
 
-This [Aspose free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.PDF](https://products.aspose.com/pdf) to convert a PDF 1.5 file to PDF 1.7 file using Aspose.PDF. 
+This [Aspose free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.PDF](https://products.aspose.com/pdf) to [convert a PDF 1.5 file to PDF 1.7 file](https://docs.aspose.com/display/pdfnet/Convert+PDF+file+to+other+Formats). 
 
 A sample PDF 1.5 specification file is added to this repository [Aspose Free Consulting.pdf](https://github.com/aspose-free-consulting/convert-pdf-1.5-to-pdf-1.7-and-save-to-stream/blob/master/Aspose%20Free%20Consulting.pdf). You can use this sample file to test, or use your own sample file with this code. 
 
