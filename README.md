@@ -2,6 +2,15 @@
 
 This [Aspose free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.PDF](https://products.aspose.com/pdf) to convert a PDF 1.5 file to PDF 1.7 file using Aspose.PDF. 
 
+A sample PDF 1.5 specification file is added to this repository [Aspose Free Consulting.pdf](https://github.com/aspose-free-consulting/convert-pdf-1.5-to-pdf-1.7-and-save-to-stream/blob/master/Aspose%20Free%20Consulting.pdf). You can use this sample file to test, or use your own sample file with this code. 
+
+The Aspose.PDF offers a lot more features to work with your PDF file at the platform of your choice including but not limited to: 
+
+* [Add and Delete PDF Bookmarks](https://docs.aspose.com/display/pdfnet/Add+and+Delete+a+Bookmark)
+* [Add, Delete and Get Annotation](https://docs.aspose.com/display/pdfnet/Add%2C+Delete+and+Get+Annotation)
+* [Set Privileges, Encryption and Decryption of PDF File](https://docs.aspose.com/display/pdfnet/Set+Privileges%2C+Encrypt+and+Decrypt+PDF+File)
+* [Add, Delete, and Modify Forms in PDF File](https://docs.aspose.com/display/pdfnet/Add%2C+Delete+and+Modify+Form+Field)
+
 
 # Screenshots
 
