@@ -14,9 +14,17 @@ The Aspose.PDF offers a lot more features to work with your PDF file at the plat
 
 # Screenshots
 
+This is how the PDF version looks like in metadata info before conversion.
+
+![Before](https://user-images.githubusercontent.com/1214951/68733777-a74c1c00-05f9-11ea-8ddc-230d75f8f932.png)
+
 The UI of the project is simple and allows you to select a PDF 1.5 file and then converts it to PDF 1.7 specification. 
 
 ![ConversionSteps](https://user-images.githubusercontent.com/1214951/68732529-8f729900-05f5-11ea-88a5-1240cfd5f37b.png)
+
+This is how the PDF version looks like in metadata ino after conversion 
+
+![After](https://user-images.githubusercontent.com/1214951/68733780-a74c1c00-05f9-11ea-9cd8-0c4976965c57.png)
 
 
 If you find any questions or need help, please ask in [Aspose.PDF forum](https://forum.aspose.com/c/pdf/). You may also keep yourself updated with latest happenings with this PDF API in [Aspose.PDF blog](https://blog.aspose.com/category/pdf). 
