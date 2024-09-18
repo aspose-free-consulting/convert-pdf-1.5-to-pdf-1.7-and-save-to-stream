@@ -34,4 +34,4 @@ If you find any questions or need help, please ask in [Aspose.PDF forum](https:/
 
 
 ## This free consulting project is based on the following issue: 
-[ I want to save Pdf file to stream after convert to pdf 1_7](https://github.com/aspose-free-consulting/projects/issues/20)
+I want to save Pdf file to stream after convert to pdf 1_7: github.com/aspose-free-consulting/projects/issues/20
